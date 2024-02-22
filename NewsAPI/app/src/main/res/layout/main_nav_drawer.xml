@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Praise"
+        android:text="hhhpraise"
         android:textSize="20sp"
         android:textStyle="bold"
         android:textAlignment="center"
@@ -21,7 +21,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="praisearowolo33@gmail.com"
+        android:text="praise-arowolo github"
         android:textSize="15sp"
         android:textStyle="normal"
         android:textAlignment="center"

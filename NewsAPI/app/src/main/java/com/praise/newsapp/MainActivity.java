@@ -31,8 +31,10 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+
+//visit "https://newsapi.org/v2/" and request for your own private API KEY
 public class MainActivity extends AppCompatActivity {
-    final String API_KEY = "f46eddbbab41489abbb904ebe4378e5e";
+    final String API_KEY = " ";
     RecyclerView recyclerView;
     Adapter adapter;
     SwipeRefreshLayout swipeRefreshLayout;

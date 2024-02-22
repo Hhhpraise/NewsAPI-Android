@@ -32,6 +32,7 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
+//this uses the joke api to get jokes and also set an alarm in which user recieves a joke notification
 public class Display_joke extends AppCompatActivity {
     TextView textCat, txtJoke, txtres;
     Button button;

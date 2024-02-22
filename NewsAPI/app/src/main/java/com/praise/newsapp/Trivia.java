@@ -28,7 +28,7 @@ import okhttp3.Callback;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
-
+// this page uses the "https://jservice.io/api/random" to fetch random trivia questions and their answers
 public class Trivia extends AppCompatActivity {
     DrawerLayout drawerLayout;
     TextView textCat, txtJoke, txtres;
