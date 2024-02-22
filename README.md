@@ -12,9 +12,9 @@
 <img src="Images/navDrawer.png" alt="Example Image" width="350" height="700">
 
 ### API used :
--https://newsapi.org/v2/
--https://v2.jokeapi.dev/joke/Any
--https://jservice.io/api/random
+- **News API:** https://newsapi.org/v2/
+- **Joke API:** https://v2.jokeapi.dev/joke/Any
+- **Trivia API:** https://jservice.io/api/random
 
 #### Troubleshooting
 
